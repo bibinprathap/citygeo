@@ -48,3 +48,51 @@ This software uses the following open source packages:
 - [Dexie.js](https://dexie.org/)
 - [Rollup](https://rollupjs.org/guide/en/)
 - [Dotenv](https://dotenv.org/)
+
+
+https://github.com/outer-labs/react-forge-viewer
+
+https://github.com/lucascassiano/react-cubeview
+
+React Native + Forge
+https://github.com/wallabyway/forgeApp
+
+https://github.com/dmh126/react-adsk-forge-viewer-ts
+
+
+https://github.com/JoostGevaert/ifcjs-gis
+
+Autodesk Forge IoT Real-Time Sample with React & FeathersJS
+https://github.com/dukedhx/viewer-iot-react-feathersjs
+
+
+React Typescript wrapper for Autodesk Forge Viewer
+https://github.com/dmh126/react-adsk-forge-viewer-ts
+
+
+https://github.com/bernatsampera/Forge-React-Viewer
+
+https://github.com/jakubGryzio/BIMtoGIS
+
+Python for street networks. Download, model, analyze, and visualize street networks and other geospatial features from OpenStreetMap.
+https://github.com/gboeing/osmnx
+
+
+https://github.com/vvoovv/blosm
+
+
+https://github.com/LemiCandy/Terrain-textures-for-OSM2CITY
+
+
+https://github.com/visgl/deck.gl
+
+https://github.com/supermedium/three.js
+
+
+https://github.com/storytellingmap/storymap
+
+
+
+
+
+
