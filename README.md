@@ -1,7 +1,7 @@
 # bim-gis-viewer
 
 ![img](BIM-GIS.png)
-Try it out: [https://extraordinary-belekoy-ee7fa8.netlify.app](https://extraordinary-belekoy-ee7fa8.netlify.app)
+Try it out: [https://incomparable-mandazi-cc0aa6.netlify.app/](https://incomparable-mandazi-cc0aa6.netlify.app)
 
  
 ## Key Features
