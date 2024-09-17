@@ -3,10 +3,7 @@
 ![img](BIM-GIS.png)
 Try it out: [https://extraordinary-belekoy-ee7fa8.netlify.app](https://extraordinary-belekoy-ee7fa8.netlify.app)
 
-Watch demo: [https://youtu.be/4PvLQ1qMmKI](https://youtu.be/4PvLQ1qMmKI)
-
-Honorable Mention in IFC.js Crash Course 1st Edition Hackathon: [https://www.linkedin.com/posts/antonio-gonz%C3%A1lez-viegas-8b2326151_openbim-opensource-activity-6974052235869618176-YJH-/](https://www.linkedin.com/posts/antonio-gonz%C3%A1lez-viegas-8b2326151_openbim-opensource-activity-6974052235869618176-YJH-/)
-
+ 
 ## Key Features
 
 - Place your model anywhere you want or move it randomly (BIM-GIS integration)
@@ -22,10 +19,10 @@ Get a free Mapbox API Key at [https://www.mapbox.com/](https://www.mapbox.com/)
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/helenkwok/bim-gis-viewer.git
+$ git clone https://github.com/bibinprathap/citygeo.git
 
 # Go into the repository
-$ cd bim-gis-viewer
+$ cd citygeo
 
 # Install dependencies
 $ npm install
